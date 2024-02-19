@@ -1,4 +1,3 @@
-package dsacode.array2D;
 
 import java.util.Scanner;
 
